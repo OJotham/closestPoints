@@ -14,7 +14,7 @@ def closestStations(*stations):
 	#Instantiate an empty dictionary onto which pulled data is to be appended
 	pulled_stations = []
 
-	'''Loop through all of the given stations and formating each into the url
+	'''Loop through all of the given stations and format each into the url
 	   Use replace function to remove whitespaces within strings and replacing them with underscores
 	   Finally let urllib do the rest of the job
 	'''
